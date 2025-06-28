@@ -22,33 +22,15 @@ This repository contains a complete **Trader Behavior Insights** analysis, explo
 ##  Getting Started
 
  1. Clone this repo   
-
-2. Organize data
+ 2. Organize data
   Create a data/ folder and place both CSVs there:
   mkdir data
   mv /path/to/historical_data.csv data/
   mv /path/to/fear_greed_index.csv data/
-  Your structure should look like:
-  trader-behavior-insights/
-  ├── data/
-  │   ├── historical_data.csv
-  │   └── fear_greed_index.csv
-  ├── notebooks/
-  │   └── Trader_Sentiment_Analysis.ipynb
-  ├── slides/
-  │   └── Trader_Behavior_Insights.pdf
-  ├── model.pkl
-  ├── proxy_backtest_equity.csv
-  ├── app.py
-  └── README.md
-3. Install dependencies
-  Use a virtual environment for isolation:
-  bash
-  python3 -m venv venv
-  source venv/bin/activate
+ 3. Install dependencies
   pip install --upgrade pip
   Then install required packages:
-  pip install pandas numpy scipy scikit-learn xgboost matplotlib seaborn yfinance plotly streamlit
+  pip install pandas numpy scipy scikit-learn xgboost matplotlib seaborn yfinance plotly           streamlit
   Or install from requirements.txt if provided:
   pip install -r requirements.txt
 4. Analysis Notebook
