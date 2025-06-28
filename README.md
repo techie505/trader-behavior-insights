@@ -1,6 +1,6 @@
 # Trader Behavior Insights
 
-**Junior Data Scientist – [Anushka Aryan]**
+**Junior Data Scientist – Anushka Aryan**
 
 
 ## 📖 Overview
@@ -61,7 +61,8 @@ This repository contains a complete **Trader Behavior Insights** analysis, explo
  8. Backtest (Proxy)  
    8.1 Equity curves comparing buy-and-hold vs. extreme-fear rule  
 
-What Makes This Analysis Extra 🔥
+What Makes This Analysis Extra 🔥                              
+
 a) Seamless Data Fusion
 Welded 36 000+ on-chain trades to daily Fear & Greed Index by exact date—every insight anchored in real market mood.
 
